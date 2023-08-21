@@ -1,0 +1,31 @@
+Progress Report
+
+1. Created directory structure and initialized files.
+2. Implemented task scheduler logic.
+3. Implemented RabbitMQ message handling.
+4. Started implementing conversation handling logic.
+   a. Defined handleNewConvo function.
+   b. Defined handleExistingConvo function.
+5. Pending implementation of specific conversation handling details.
+
+Note: Encountered issues with locating correct placeholders for functions. Need to review code structure and continue implementation.
+
+---
+
+Progress Report for Task Scheduler:
+-----------------------------------
+1. Created the progress report file.
+2. Defined the task structure with required parameters.
+3. Planned the RabbitMQ integration for enqueueing and dequeueing tasks.
+4. Prepared for the implementation of the main loop and conversation handling with chatGPT.
+5. Outlined the approach for handling new conversations and setting the convoLink.
+6. Ensured modular approach and error handling for maintainability.
+7. Next steps: Implement RabbitMQ integration, main loop, and conversation handling.
+
+
+Progress Report Update:
+-----------------------
+File: ./kaguya-task-scheduler/task-queue.js
+Status: Planning
+Notes: Preparing to implement task queue with RabbitMQ integration.
+Next Steps: Implement RabbitMQ integration, main loop, and conversation handling.
